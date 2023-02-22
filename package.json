@@ -1,0 +1,22 @@
+{
+  "name": "bookfinderserver",
+  "version": "1.0.0",
+  "description": "book finder server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AwsYaseen22/chingo-bookfinder-tier2-server.git"
+  },
+  "keywords": [
+    "chingu"
+  ],
+  "author": "Aws",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AwsYaseen22/chingo-bookfinder-tier2-server/issues"
+  },
+  "homepage": "https://github.com/AwsYaseen22/chingo-bookfinder-tier2-server#readme"
+}
